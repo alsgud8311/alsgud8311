@@ -4,7 +4,7 @@
 
 <h2 align="center">Front-End Developer</h2>
 
-<div align="center">
+<div>
   <p>My name is Minhyung</p>
   <p>I'm majoring in English Literature & Culture / Department of ai(sw&ai)</p>
   <p>I started studying Frontend web development in 2023.</p>
