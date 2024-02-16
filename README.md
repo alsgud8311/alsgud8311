@@ -32,6 +32,7 @@
 </div>
 
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dup33333)](https://solved.ac/dup33333/)
 
 
 
