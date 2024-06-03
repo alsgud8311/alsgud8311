@@ -8,7 +8,7 @@
   <p>My name is Minhyung</p>
   <p>I'm majoring in English Literature & Culture / Department of ai(sw&ai)</p>
   <p>I started studying Frontend web development in 2023.</p>
-  <p>For now, I'm a SUPER Junior Frontend Developer. But I believe that constant effort makes me a better developer.</p>
+  <p>For now, I'm a Junior Frontend Developer. But I believe that constant effort makes me a better developer.</p>
   <p>So I am studyng <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>, <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>, <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white"/>, Computer Science under a personal commitment to make at least one commit per day.</p>
   <p>You can visit my Tech Blog via this domain👇</p>
   <p>https://velog.io/@alsgud8311/posts</p>
