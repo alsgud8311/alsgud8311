@@ -36,15 +36,6 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dup33333)](https://solved.ac/dup33333/)
 
 
-
-<a href="https://github.com/devxb/gitanimals">
-<img
-  src="https://render.gitanimals.org/farms/alsgud8311"
-  width="600"
-  height="300"
-/>
-</a>
-
 <!--
 **alsgud8311/alsgud8311** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
