@@ -1,37 +1,24 @@
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hi👋%20I'm%20Minhyung&fontSize=60"/>
-</div>
+어떤 기술이든지 노력이면 해낼 수 있다는 믿음 하에 일단 도전하는 것을 좋아합니다.  
 
-<h2 align="center">Front-End Developer</h2>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Falsgud8311&count_bg=%234EA0DA&title_bg=%23555555&icon=javascript.svg&icon_color=%23FFED63&title=hits&edge_flat=false"/></a>
+UX를 고려한 서비스 제작, 추상화를 활용한 컴포넌트와 프로젝트 설계에 관심을 가지고 공부중입니다.
 
-<div>
-  <p>My name is Minhyung</p>
-  <p>I'm majoring in English Literature & Culture / Department of ai(sw&ai)</p>
-  <p>I started studying Frontend web development in 2023.</p>
-  <p>For now, I'm a Junior Frontend Developer. But I believe that constant effort makes me a better developer.</p>
-  <p>So I am studyng <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>, <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>, <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white"/>, Computer Science under a personal commitment to make at least one commit per day.</p>
-  <p>You can visit my Tech Blog via this domain👇</p>
-  <p>https://velog.io/@alsgud8311/posts</p>
-</div>
+합리적이고 논리적인 근거를 가진 코드를 작성하기 위해 노력중입니다 💪
 
-<div align="center">
-<h2>Tech Stack</h2>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
-</br></br></br></br>
-</div>
+### Tech skill
+![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![styled-components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-FF8800?style=for-the-badge&logo=zustand&logoColor=white)
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alsgud8311&layout=compact">
-<img src="https://github-readme-stats.vercel.app/api?username=alsgud8311&show_icons=true">
-</div>
-
+### Education
+- 한국외국어대학교 영미문학문화학과/ai융합전공(sw&ai) - 재학중
+### Activity
+- 멋쟁이사자처럼 한국외국어대학교(2023~2024)
+- 네이버 부스트캠프 웹모바일 9기(2024.7 ~ 2024.12)
+### Awards & Certificate
+- 멋쟁이사자처럼 연합해커톤 간지톤 최우수상
+- 리눅스마스터 2급
+----
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dup33333)](https://solved.ac/dup33333/)
 
